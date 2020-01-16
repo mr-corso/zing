@@ -1,1 +1,9 @@
-web: tox -e py27-django111-postgres
+{
+     "name": "Zing",
+     "description": "Zing",
+     "env": {
+     },
+     "addons": [
+        
+     ]
+ }

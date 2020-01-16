@@ -1,0 +1,9 @@
+{
+    "name": "Zing",
+    "description": "Zing",
+    "env": {
+    },
+    "addons": [
+        "heroku-redis"
+    ],
+}

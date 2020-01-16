@@ -1,9 +1,1 @@
-{
-    "name": "Zing",
-    "description": "Zing",
-    "env": {
-    },
-    "addons": [
-        "heroku-redis"
-    ]
-}
+web: tox -e py27-django111-postgres

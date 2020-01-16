@@ -5,5 +5,5 @@
     },
     "addons": [
         "heroku-redis"
-    ],
+    ]
 }

@@ -31,6 +31,9 @@ provide an out-of-the-box installation method. In the mean-time, one can
 experiment to run Zing from source, although we are not committed to support
 it.
 
+### Quick deploy with Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 Copying
 -------
